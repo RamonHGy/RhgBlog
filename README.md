@@ -20,7 +20,6 @@ JavaScript - Interatividade e dinamismo nas páginas públicas
 
 📋 Funcionalidades
 Área Pública
-
 ✅ Visualização de posts do blog
 ✅ Interface responsiva e moderna
 ✅ Páginas estáticas otimizadas com HTML/CSS/JS puro
@@ -28,9 +27,10 @@ JavaScript - Interatividade e dinamismo nas páginas públicas
 ✅ Design clean e profissional
 
 Área Administrativa
-
 ✅ Sistema de login seguro com Spring Security
 ✅ Painel administrativo com Thymeleaf
 ✅ CRUD completo de posts
 ✅ Gerenciamento de conteúdo
 ✅ Proteção de rotas administrativas
+
+#Fotos do projeto em docs
