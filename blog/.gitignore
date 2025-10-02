@@ -36,3 +36,5 @@ build/
 ### Arquivos que você não quer subir ###
 # Ignorar apenas o PostController.java
 src/main/java/com/seu/pacote/controller/PostController.java
+src/main/resources/application.properties
+
