@@ -24,7 +24,9 @@ Thymeleaf - Template engine para páginas administrativas
 Frontend
 
 HTML5 - Estruturação do conteúdo
+
 CSS3 - Estilização e layout responsivo
+
 JavaScript - Interatividade e dinamismo nas páginas públicas
 
 📋 Funcionalidades
